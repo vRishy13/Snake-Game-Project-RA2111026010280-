@@ -1,6 +1,6 @@
 # Snake-Game-Project
 # Sai Rishyanth Visingiri-RA2111026010280
-# SRMIST CSE AI&ML V1
+# CSE AI&ML
 
 The snake game is a very popular, simplistic, and addictive video game around the globe launched in 1997 with Nokia 6110. It is based on the concept where the player manoeuvres a line (snake) which grows in length every time the line eats more dots ‘egg’, with the line itself being a primary obstacle as it would die if it collided into itself. As a result, the growth of its length makes the game even more difficult and challenging to play further on. 
 
